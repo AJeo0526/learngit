@@ -1,3 +1,7 @@
 123
 123
+<<<<<<< HEAD
 a  # edit by master
+=======
+a  # edit by hot
+>>>>>>> hot
